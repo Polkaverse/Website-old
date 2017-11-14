@@ -1,0 +1,23 @@
+body
+{
+	background: url('pcs.png')no-repeat;
+	background-size:1500px 700px;
+	background-color:"black"
+	font-family:Arial;
+	color:red;
+}
+ul
+{
+	margin:opx;
+	padding:opx;
+	list-style:none;
+}
+ul li 
+{
+	float: left;
+	width: 100px;
+	height: 40px;
+	background-color: grey;
+	opacity: .8;
+}
+
